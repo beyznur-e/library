@@ -13,7 +13,6 @@ This project is a simple Library Management System built using Java and Spring B
 - **Java**: Core language for the project.
 - **Spring Boot**: Framework for building REST APIs.
 - **Hibernate/JPA**: ORM for database interactions.
-- **H2 Database**: In-memory database for development.
 - **Maven**: Dependency and build management.
 
 ## API Endpoints
